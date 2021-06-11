@@ -1,0 +1,65 @@
+# Copyright (C) 2021 Maarten Menten
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Send Email 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/my-send-email\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-08T15:56:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: my-send-email\n"
+
+#. Plugin Name of the plugin
+#: src/App.php:46
+#: src/App.php:47
+msgid "Send Email"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/mmaarten/my-send-email"
+msgstr ""
+
+#. Description of the plugin
+msgid "Send email via admin area."
+msgstr ""
+
+#. Author of the plugin
+msgid "Maarten Menten"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/maartenm/"
+msgstr ""
+
+#: src/App.php:103
+msgid "Sender"
+msgstr ""
+
+#: src/App.php:108
+msgid "Recipient"
+msgstr ""
+
+#: src/App.php:113
+msgid "Subject"
+msgstr ""
+
+#: src/App.php:118
+msgid "Message"
+msgstr ""
+
+#: src/App.php:122
+msgid "Send"
+msgstr ""
+
+#: src/App.php:160
+msgid "Mail sent."
+msgstr ""
+
+#: src/App.php:163
+msgid "Mail not sent: %s"
+msgstr ""
